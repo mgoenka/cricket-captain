@@ -1,0 +1,31 @@
+# Sample roster file for the umpiring sheet generator.
+# One player per line. Lines starting with # are ignored.
+#
+# Convention (auto-applied if you don't pre-tag):
+#   Line 1 -> Captain (gets "(C)")
+#   Line 2 -> Vice Captain (gets "(VC)")
+#   Line 3 -> Manager (gets "(M)")
+#   Lines 19-20 -> Secondary players (get "(S)")
+#
+# Alternatively, pre-tag in the file like "Mohit Goenka (C)" and that wins.
+
+Mohit Goenka (C)
+Mitesh Gor (VC)
+Viswateja Nemani (M)
+Aijaz Mallick
+Anand Rao
+Aravind Sethuraman
+Ashish Chhabra
+Divyank Goswami
+Kanishak Dua
+Manas Chandrappa
+Ravitheja Vytla
+Sai Parimal
+Satish Yanamandra
+Srikrishna Karatalapu
+Stefan D'costa
+Swapnil Waradkar
+Tarun Kathpal
+Venkata Sai Gogu
+Ashwin Shankar (S)
+Subraya Mallya (S)

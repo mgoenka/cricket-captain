@@ -1,0 +1,24 @@
+{
+  "name": "cricket-captain",
+  "displayName": "Cricket Captain",
+  "description": "T20 cricket match strategy assistant for club-level captains. Builds toss strategy, batting order, bowling rotation, field plans, opposition matchups, and WhatsApp-ready team summaries. Designed for tennis-ball / club leagues like CricBay.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mohit Goenka",
+    "url": "https://mohitgoenka.com"
+  },
+  "repository": "https://github.com/mgoenka/cricket-captain",
+  "license": "MIT",
+  "keywords": [
+    "cricket",
+    "t20",
+    "captain",
+    "strategy",
+    "cricbay",
+    "tennis-ball",
+    "club-cricket",
+    "match-plan",
+    "skills"
+  ],
+  "skills": "./skills/"
+}
