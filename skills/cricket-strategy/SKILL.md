@@ -584,6 +584,8 @@ This is what gets shared with the team. **Does NOT include**:
 
 **Lead the team summary with the ARRIVAL time, not the match start time.** If start is 8:30 AM, the opening line should read "Be at the ground by 8 AM. Match starts at 8:30." People skim — if start time comes first, they'll show up at start time and miss warm up. Close the team summary with a time reinforcement like "See you at 8 AM" to anchor it one more time.
 
+**Always include a "ping the captain directly" call-out in EVERY team summary** (placed just before the final closing line). Ask anyone with concerns about their role, batting slot, bowling spot, or fielding position to reach out **directly and now**, before the match day. Be polite and warm, not rude. Example: "If anyone has concerns or thoughts on your role, please ping me directly now so we can sort it out before the match. Much better to hear it tonight than on the field."
+
 ### Fielding position assignment rules
 
 Use **per-match rates** (catches/match, run-outs/match), profile designations, AND any player-specific preferences from `team/roster.md`:
