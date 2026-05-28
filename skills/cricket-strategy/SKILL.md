@@ -588,6 +588,16 @@ Use **per-match rates** (catches/match, run-outs/match), profile designations, A
 
 **Player preferences override pure stats.** If a player asks for a specific position they're comfortable with, slot them there if it doesn't break a hard rule.
 
+**Core fielding principles** (apply across all matches):
+
+1. **Best fielder goes to the highest-volume deep catch position.** On a short-offside ground (e.g. BB / Baseball ground), that is usually **deep mid-wicket** — leg-side boundaries are longer and high catches from pulls/hooks land there. On a full ground, it is usually long-on or long-off. Identify the highest-volume deep catch spot for the ground and put the best high-catch outfielder there, not at an arbitrary deep spot.
+
+2. **Slips suit fielders who don't / can't run much** but have **strong reflexes / soft hands**. A slow runner is not a defect at slip — it is a fit. Pair the role with reflexes, not athleticism.
+
+3. **Some good infield catchers don't catch in the outfield.** A player who catches well at slip/point/short cover but freezes / declines outfield catches should be kept **inside the ring**. Don't force them deep just because they're a "good catcher" — that's a category mismatch.
+
+4. **Always explicitly designate the first-over bowler in the field plan.** The fielding lineup must add to 11: **1 bowler + 1 WK + 9 fielders = 11**. If you list 11 fielding positions without naming the bowler, you have miscounted. Name the bowler first, then the 10 non-bowling positions. When the first-over bowler is bowling, they occupy the bowling crease (not a fielding position); when they're not bowling later, they default to whichever non-bowling field position they were assigned.
+
 ### Tone rules (apply to both summaries)
 
 - Plain text. No headings. No markdown bold/italics.
