@@ -607,7 +607,9 @@ Use **per-match rates** (catches/match, run-outs/match), profile designations, A
 
 2. **Slips suit fielders who don't / can't run much** but have **strong reflexes / soft hands**. A slow runner is not a defect at slip — it is a fit. Pair the role with reflexes, not athleticism.
 
-3. **Some good infield catchers don't catch in the outfield.** A player who catches well at slip/point/short cover but freezes / declines outfield catches should be kept **inside the ring**. Don't force them deep just because they're a "good catcher" — that's a category mismatch.
+3. **Some good infield catchers don't catch in the outfield at all** — keep them inside the ring. A player who catches well at slip / point / short cover but freezes or declines outfield catches should be kept inside the ring. Don't force them deep just because they're a "good catcher" — that's a category mismatch.
+
+   Distinct from this is a **conservative outfielder**: a player who DOES field in the deep / ring outfield but only attempts catches when they are close and the take is clean. They are not infield-only — they are a valid backup outfielder, just a conservative catcher. Place them at lower-catch-volume outfield spots (e.g. Long-off on a short-offside ground; Mid-off or Mid-on as ring outfielder #4 or #5) rather than high-volume catch positions. Use them as the 5th outfielder in place of a strictly infield-only player when the roster allows — that frees the infield-preferring player to stay at a true infield spot (Slip, Point, Square Leg, Short Cover).
 
 4. **Always explicitly designate the first-over bowler in the field plan.** The fielding lineup must add to 11: **1 bowler + 1 WK + 9 fielders = 11**. If you list 11 fielding positions without naming the bowler, you have miscounted. Name the bowler first, then the 10 non-bowling positions. When the first-over bowler is bowling, they occupy the bowling crease (not a fielding position); when they're not bowling later, they default to whichever non-bowling field position they were assigned.
 
