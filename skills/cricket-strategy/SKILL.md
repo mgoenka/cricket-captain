@@ -627,11 +627,11 @@ Use **per-match rates** (catches/match, run-outs/match), profile designations, A
    Mid-on and Mid-off are NOT casual ring slots — they are reserved for the 4th and 5th best outfielders specifically. If you don't have 5 outfielders in the XI, name the closest available player as the 5th and live with the risk. Position the first-over bowler's "when not bowling" base position carefully so a critical spot is not vacated in over 1 (Square Leg in particular must always be covered in over 1).
 
 8. **Fielding-position listing order (apply in BOTH captain's summary and team summary):** always list positions in this exact order:
-   WK, Slip, Square Leg, Point, Cover, Mid Off, Mid On, Long Off, Long On, Deep Mid Wicket, Bowler.
+   WK, Slip, Square Leg, Point, Cover, Mid Off, Mid On, Long Off, Long On, Deep Mid Wicket.
    
-   This is the standard 11 positions for a typical XI on a short-offside ground. If the plan uses other positions (e.g. Short Mid-off, Backward Short Leg, Extra Cover), slot them in geographically — Short Mid-off between Cover and Mid Off, Backward Short Leg between Slip and Square Leg, Extra Cover between Cover and Mid Off. Never list positions in random order — readers scan top-to-bottom and rely on the consistent flow (close → ring → ring outfielder → deep → bowler).
+   This is the standard 10 fielding positions for a typical XI on a short-offside ground (the bowler is the 11th player but is NOT listed — see rule 9). If the plan uses other positions (e.g. Short Mid-off, Backward Short Leg, Extra Cover), slot them in geographically — Short Mid-off between Cover and Mid Off, Backward Short Leg between Slip and Square Leg, Extra Cover between Cover and Mid Off. Never list positions in random order — readers scan top-to-bottom and rely on the consistent flow (close → ring → ring outfielder → deep).
 
-9. **Do NOT label the first-over bowler's role in the fielding lineup.** Just write "Bowler: [name]" — not "Bowler (first over): [name]" or "Opening bowler: [name]". The team already knows who opens the bowling from the bowling section. In the fielding listing, the bowler is the bowler; keep it clean.
+9. **Do NOT list the bowler in the fielding-positions section** of either summary. The first-over bowler is named in the bowling section ("X opens at over 1"), and including them again in fielding is redundant. The fielding-positions section is 10 entries only (WK + 9 fielders); the 11th player is implicitly the bowler at the crease.
 
 10. **Always include a "stand inside the boundary" reminder in the team summary.** Outfielders / deep fielders should stand about **20 steps in from the boundary rope**, not on the rope itself. Word the reminder warmly, not as a callout. Example: "Deep fielders, please stand about 20 steps inside the boundary, not right on the rope. It is much easier to come forward for a catch than to backpedal at the last moment." Place this near the catch-reminder line in the team summary.
 
