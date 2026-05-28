@@ -615,6 +615,15 @@ Use **per-match rates** (catches/match, run-outs/match), profile designations, A
 
 6. **Weaker fielders / unknown fielders go to Square Leg or Short Cover** (sometimes called Short Mid-off, same idea). These positions get fewer high-pressure catches and less ground-coverage volume — the cleanest places to hide a fielder you don't trust with hard chances. **If you have not seen a player field in the outfield, treat them as "not outfield" until proven** — slot them at Square Leg or Short Cover rather than guessing.
 
+7. **Build a 5-deep outfield depth chart for every XI and assign positions in rank order.** Every team plan needs FIVE ranked outfielders, not just three:
+   - **#1 (best fielder)** → highest-volume deep catch position (often Deep Mid-Wicket on short-offside grounds; otherwise Long-on or Long-off on full grounds).
+   - **#2** → other primary deep position.
+   - **#3** → third deep position (when 3 outside is warranted).
+   - **#4 (backup outfielder)** → **Mid-on** at the start of the game. High-traffic ring spot.
+   - **#5 (backup outfielder)** → **Mid-off** at the start of the game. High-traffic ring spot.
+   
+   Mid-on and Mid-off are NOT casual ring slots — they are reserved for the 4th and 5th best outfielders specifically. If you don't have 5 outfielders in the XI, name the closest available player as the 5th and live with the risk. Position the first-over bowler's "when not bowling" base position carefully so a critical spot is not vacated in over 1 (Square Leg in particular must always be covered in over 1).
+
 ### Tone rules (apply to both summaries)
 
 - Plain text. No headings. No markdown bold/italics.
