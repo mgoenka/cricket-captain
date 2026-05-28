@@ -636,6 +636,11 @@ Use **per-match rates** (catches/match, run-outs/match), profile designations, A
 11. **Keep both summaries tight — list names, not justifications.** Do not include per-player reasoning, career stats, stated-preference notes, or tactical "why" annotations in the line-by-line lists. The summaries are reference cards, not white papers.
    
    **Do NOT include the outfield depth chart as its own section in the captain's summary.** Build the depth chart internally (rule 7) to figure out who goes to which deep / ring outfielder spot, then surface only the resulting field plan. The depth chart itself is reconstructable from the field plan, so it adds noise to the summary.
+
+12. **Player-tag naming convention.** Tags like (S), [S], [M], [VC], (C) appear after a player's name to denote role / status. Do NOT duplicate the tag meaning in the name itself:
+   - **(S) = Secondary**. Write "Name (S)", not "Name Sec (S)" or "Name Secondary (S)".
+   - **(C) = Captain**, **(VC) = Vice Captain**, **[M] = Manager**, **[WK] = Wicket Keeper** — same logic, the tag is enough.
+   - In the team WhatsApp summary, drop the tags entirely (use first name only). Tags appear in captain's summary and roster files only.
    
    In batting orders, list only "Position N, Name" (or "N. Name [Tag]"). Do not append "career home", "preferred slot", "stated preference", "anchor", "N career runs", etc.
    
