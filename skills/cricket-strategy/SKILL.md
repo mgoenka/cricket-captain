@@ -635,6 +635,8 @@ Use **per-match rates** (catches/match, run-outs/match), profile designations, A
 
 11. **Keep both summaries tight — list names, not justifications.** Do not include per-player reasoning, career stats, stated-preference notes, or tactical "why" annotations in the line-by-line lists. The summaries are reference cards, not white papers.
    
+   **Do NOT include the outfield depth chart as its own section in the captain's summary.** Build the depth chart internally (rule 7) to figure out who goes to which deep / ring outfielder spot, then surface only the resulting field plan. The depth chart itself is reconstructable from the field plan, so it adds noise to the summary.
+   
    In batting orders, list only "Position N, Name" (or "N. Name [Tag]"). Do not append "career home", "preferred slot", "stated preference", "anchor", "N career runs", etc.
    
    In bowling rotations, list only "Over N. Bowler" plus BoPP/BaPP markers when applicable. Do not append "(first change)", "(weaker bowler)", "(spinner enters)", "(spell start)", or "(2nd of spell)". The pattern is visible from the rotation itself.
