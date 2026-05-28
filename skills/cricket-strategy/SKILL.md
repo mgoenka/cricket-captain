@@ -348,14 +348,26 @@ When auditing recent form, use the **last 5 actual innings** (excluding DNB and 
 If the team's bowling is their strength and batting is the weakness, the two targets must reflect that asymmetry, not mirror each other.
 
 **Batting target (when batting first)**:
-- Anchored to **ground first-innings average ± 5 runs**.
+- Anchored to **ground first-innings average + 5 to +10 runs** (slightly above average — aim to be competitive PLUS a small cushion).
 - Don't lower for fear of overshooting (leads to under-batting).
-- Don't aspire to 30 above average (leads to collapses).
+- Don't aspire to 25-30 above average (leads to collapses).
 
 **Bowling target (when bowling first)**:
-- Anchored **10-15 runs BELOW ground average** when bowling is the team's strength.
+- Anchored **10-15 runs BELOW ground first-innings average** when bowling is the team's strength.
 - For weak opposition, aim at the lower end.
 - For strong opposition, aim at the higher end.
+
+**Asymmetry stays preserved**: ~15-25 run gap between bat target (avg + 5/10) and bowl target (avg - 10/15).
+
+### Second innings averages are biased LOW — apply a buffer
+
+When the chasing team reaches the target, the match ends. They often score only 1-2 runs beyond the target rather than batting the full 20 overs. So "average second innings score" systematically underestimates what teams can actually score.
+
+**Adjustment**: when using second innings average as a reference (ground tendency, chase difficulty), apply a **10-15% upward buffer**.
+
+Example: if a ground shows second innings avg 66, the buffered estimate is ~73-76. That's much closer to what the ground actually allows.
+
+**For target anchoring, always use the FIRST innings average** (no buffer needed — it's already unbiased). Use the buffered second innings only for chase-feasibility framing.
 
 **Pacing checkpoints (40/60 split rule)**:
 - 10-over batting check: ~40% of total target with 2 wickets max.
