@@ -412,6 +412,16 @@ When chasing a sub-80 total, the entire batting plan changes. The only way to lo
 9. **Match-up first, then form**: bring the best bowler in regular field when the opposition's best batter is at the crease.
 10. **6th-bowler problem**: if only 5 confirmed bowlers cover 19-20 overs, you still need a 6th bowler for at least 1 over.
 
+**Core rotation principles (club / tennis-ball cricket)**:
+
+A. **Give the very first over to a WEAKER bowler, not the best one.** Batsmen rarely attack from ball 1 — they're settling. A weaker bowler in over 1 will give up fewer runs than they would later because nobody is swinging yet. Save your best wicket-takers for overs 4-8 when the batsmen are looking for boundaries and the matchup actually matters. This applies in tennis-ball / club cricket where the new ball doesn't swing meaningfully. It does NOT apply to leather-ball cricket.
+
+B. **Spinners need the ball to soften.** Profile-designated spinners are generally not effective with the brand-new ball — bounce is too high, ball grips less, batsmen pick line easily. Bring spinners in from over 4-5 onward. Don't waste a spinner's 4 overs in the new-ball phase.
+
+C. **Some bowlers prefer the old ball.** Even non-spinners (slower mediums, cutters) may prefer bowling after the ball has scuffed. Honor stated preferences — a bowler in their preferred phase performs better than one forced into an uncomfortable spot.
+
+D. **First-over bowler ≠ established pattern unless re-confirmed for current XI.** If the usual first-over bowler is absent for this match, do NOT default to "the most established bowler in this XI". Re-apply principle A (weaker first) to whoever is actually playing.
+
 **BaPP defense at 17-20 (key rule)**:
 - **4 different bowlers in the last 4 overs (17-20), at least 3 of them PP-eligible (non-BoPP).**
 - The cleanest way: 3 BoPP bowlers + 3 non-BoPP. The 3 non-BoPP go in 17-20, plus 1 of the BoPP'd bowlers takes the 4th late slot.
@@ -542,8 +552,9 @@ Always produce TWO summaries at the end of the plan.
 
 This is for **the captain only**. Full detail. Includes:
 - Toss strategy + Plan B if we lose
-- Full batting order with positions and roles
-- Full bowling rotation with bowler names assigned to each over
+- **Full batting lineup, listed line by line (one player per line, all 11 named).** Not a paragraph. Vertical list with position, player, role notes.
+- **Full bowling rotation, listed line by line (one over per line, all 20 overs).** Each line: over number, bowler name, BoPP/BaPP/regular marker.
+- **Full fielding positions, listed line by line (one position per line, all 11 slots named).** Each line: position, player, brief reason.
 - Individual quotas (who bowls 4, who bowls 3)
 - BoPP and BaPP defense plan
 - Day-of contingencies (Plan B triggers)
@@ -558,13 +569,13 @@ This is what gets shared with the team. **Does NOT include**:
 - Form analysis or recent-game caveats.
 - **"Save best bowlers for later" phrasing** — players bowling early might feel undervalued. Frame as "X and Y open, then we go by game state".
 
-**WHAT GOES in the team summary**:
+**WHAT GOES in the team summary** (always include all five of the items in bold below):
 - Conditions (weather, pitch type)
 - Opposition profile (general — "they have weak batting", "their key bowlers are X and Y")
 - **Toss contingency**: what we want if we win + adjustments if we lose
-- **Top 5 batting order only** — name positions 1 through 5. For the rest, say "Then [list of names] in some order based on game state".
-- **Brief bowling order** — opening bowlers named, then who's likely on after that, without revealing how many overs each bowls.
-- **Fielding positions** — assign each player to a position based on stats and profile.
+- **Top 5 batting order (REQUIRED)** — name positions 1 through 5. For the rest, say "Then [list of names] in some order based on game state". Top-5 is the firm commitment; #6-11 is fluid.
+- **Opening bowler AND first-change bowler (REQUIRED)** — explicitly name the over-1 bowler ("opens") and the over-2 bowler ("first change"). Then "then X, Y, Z come in based on game state". Do NOT reveal individual quotas. Do NOT use "save best for later" phrasing — frame as "A opens, B first change, then others come in".
+- **Fielding positions (REQUIRED)** — assign each player to a position. Be specific: "A goes to slip, B at point, C at long-on". List ALL 11 (1 bowler + 1 WK + 9 fielders).
 - First 10 overs goals (batting + bowling targets)
 - Key matchups (their star batsmen, their star bowlers, our counters)
 - Catch reminder if the team has been dropping catches recently
