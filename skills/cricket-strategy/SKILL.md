@@ -611,6 +611,10 @@ Use **per-match rates** (catches/match, run-outs/match), profile designations, A
 
 4. **Always explicitly designate the first-over bowler in the field plan.** The fielding lineup must add to 11: **1 bowler + 1 WK + 9 fielders = 11**. If you list 11 fielding positions without naming the bowler, you have miscounted. Name the bowler first, then the 10 non-bowling positions. When the first-over bowler is bowling, they occupy the bowling crease (not a fielding position); when they're not bowling later, they default to whichever non-bowling field position they were assigned.
 
+5. **Strong outfielders also belong at Mid-Off or Mid-On — not just in the deep.** Mid-off and mid-on are high-traffic ring positions where the bowler needs safe hands and a strong arm; a good outfielder there saves more runs and takes more drives-on-the-up catches than at the deep boundary. Don't reflexively pin every good outfielder to long-on / long-off — use ring placements for them when the depth is otherwise covered.
+
+6. **Weaker fielders / unknown fielders go to Square Leg or Short Cover** (sometimes called Short Mid-off, same idea). These positions get fewer high-pressure catches and less ground-coverage volume — the cleanest places to hide a fielder you don't trust with hard chances. **If you have not seen a player field in the outfield, treat them as "not outfield" until proven** — slot them at Square Leg or Short Cover rather than guessing.
+
 ### Tone rules (apply to both summaries)
 
 - Plain text. No headings. No markdown bold/italics.
