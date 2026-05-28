@@ -633,7 +633,24 @@ Use **per-match rates** (catches/match, run-outs/match), profile designations, A
 
 9. **Do NOT list the bowler in the fielding-positions section** of either summary. The first-over bowler is named in the bowling section ("X opens at over 1"), and including them again in fielding is redundant. The fielding-positions section is 10 entries only (WK + 9 fielders); the 11th player is implicitly the bowler at the crease.
 
-10. **Always include a "stand inside the boundary" reminder in the team summary.** Outfielders / deep fielders should stand about **20 steps in from the boundary rope**, not on the rope itself. Word the reminder warmly, not as a callout. Example: "Deep fielders, please stand about 20 steps inside the boundary, not right on the rope. It is much easier to come forward for a catch than to backpedal at the last moment." Place this near the catch-reminder line in the team summary.
+11. **Keep both summaries tight — list names, not justifications.** Do not include per-player reasoning, career stats, stated-preference notes, or tactical "why" annotations in the line-by-line lists. The summaries are reference cards, not white papers.
+   
+   In batting orders, list only "Position N, Name" (or "N. Name [Tag]"). Do not append "career home", "preferred slot", "stated preference", "anchor", "N career runs", etc.
+   
+   In bowling rotations, list only "Over N. Bowler" plus BoPP/BaPP markers when applicable. Do not append "(first change)", "(weaker bowler)", "(spinner enters)", "(spell start)", or "(2nd of spell)". The pattern is visible from the rotation itself.
+   
+   In field plans, list only "Position: Name". Do not append "(his strength)", "(doesn't run much)", "(infield catcher)".
+   
+   In conditions, keep to weather + relevant ground type cues. Skip pitch-detail like "Hard tennis ball, no swing" unless the pitch is unusual for the league.
+   
+   In team summaries specifically, also skip:
+   - Over-lecturing on arrival time. "Be at the ground by X" suffices; do not add "do not show up at start time ready to play, that is too late".
+   - Over-detailed conditions ("ball comes on straight" etc.) — the team knows the equipment.
+   - Per-player career stat call-outs.
+   
+   When the captain or a teammate wants the "why" for a slot, they can ask. The summaries default to brevity.
+
+10. **Always include a "stand inside the boundary" reminder in the team summary.** Outfielders / deep fielders should stand about **20 steps in from the boundary rope**, not on the rope itself. Word the reminder warmly. **Use reasoning that supports the instruction** — "most outfield catches drop short of the rope, so standing inside puts you in the actual catching zone". DO NOT use the phrase "easier to come forward than to backpedal" — that argument actually supports standing AT the rope (always coming forward), which contradicts the instruction. Place this near the catch-reminder line in the team summary.
 
 ### Tone rules (apply to both summaries)
 
