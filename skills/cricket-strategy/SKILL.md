@@ -641,6 +641,66 @@ Use **per-match rates** (catches/match, run-outs/match), profile designations, A
    - **(S) = Secondary**. Write "Name (S)", not "Name Sec (S)" or "Name Secondary (S)".
    - **(C) = Captain**, **(VC) = Vice Captain**, **[M] = Manager**, **[WK] = Wicket Keeper** — same logic, the tag is enough.
    - In the team WhatsApp summary, drop the tags entirely (use first name only). Tags appear in captain's summary and roster files only.
+
+## Pre-match WhatsApp announcement (Playing XI message)
+
+Many captains send a pre-match Playing XI announcement to the team WhatsApp group a day or two before the match. This is a separate message from the team summary. The format below is the standard convention used by club captains; preserve labels and ordering exactly.
+
+**Standard structure**:
+
+```
+This is the playing XI for the upcoming match:
+├ <Captain Full Name> [C & WK]   (or [C] if not the keeper)
+├ @<wa-id-1>
+├ @<wa-id-2> [S]                  (if secondary)
+├ @<wa-id-3>
+├ ... (one line per player, tree prefix `├ ` followed by name or @-mention)
+
+Kit: @<wa-id-x>
+Field setup: @<wa-id-a>, @<wa-id-b> and @<wa-id-c>
+Scoring: @<wa-id-d> and @<wa-id-e>
+Practice: @<wa-id-f>
+
+Time to reach the ground: <match-start minus 30 min, e.g. 8:00am>
+Match details: <Team> v <Opponent> at <Ground>, <City> on <MM/DD/YYYY> <Weekday> <HH:MMam/pm>
+Live Stream: <captain's live-stream URL if applicable>
+Address: <ground address>
+Map: <ground map URL>
+
+Special Instructions
+<ground-specific text; omit the whole block if none>
+
+Ground Preparation Instructions
+<ground-specific text; omit the whole block if none>
+
+Parking Instructions
+<ground-specific text>
+
+Restroom Instructions
+<ground-specific text>
+```
+
+**Conventions**:
+- Captain is always the first entry in the playing XI list.
+- "Time to reach the ground" = match start time minus 30 minutes (warm-up window).
+- Date format: `MM/DD/YYYY` followed by weekday and `HH:MMam/pm`. Use `v`, not "vs".
+- Tree prefix: `├ ` (Unicode U+251C + space).
+- Ground-specific data (Address, Map, Parking, Restroom, Special Instructions, Ground Preparation Instructions) is stored in `~/Dev/cricket/grounds/<ground-slug>.md` under a "Pre-match WhatsApp boilerplate" section. Pull verbatim into the message.
+
+**Role assignments** (standard set; 1 + 3 + 2 + 1 = 7 player references):
+- **Kit**: 1 player.
+- **Field setup**: 3 players, joined as `@a, @b and @c`.
+- **Scoring**: 2 players, joined as `@d and @e`.
+- **Practice**: 1 player.
+
+Captain does not take any of these roles (they have captain duty). Any player not assigned a role is just listed in the playing XI without further mention; that's fine.
+
+**What the captain provides per match** (ask once for anything missing):
+- Opponent team name.
+- Match date, weekday, start time.
+- Ground (so the right boilerplate file loads).
+- WhatsApp IDs for the 10 non-captain players, with [S] tag noted where applicable.
+- Role assignments (Kit, Field setup x3, Scoring x2, Practice).
    
    In batting orders, list only "Position N, Name" (or "N. Name [Tag]"). Do not append "career home", "preferred slot", "stated preference", "anchor", "N career runs", etc.
    
