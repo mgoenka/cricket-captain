@@ -411,6 +411,7 @@ When chasing a sub-80 total, the entire batting plan changes. The only way to lo
 8. **BaPP defense plan**: after over 10, ideally have 4+ bowlers with at least 1 over left. NEVER lock all your bowlers' final overs into rigid slots.
 9. **Match-up first, then form**: bring the best bowler in regular field when the opposition's best batter is at the crease.
 10. **6th-bowler problem**: if only 5 confirmed bowlers cover 19-20 overs, you still need a 6th bowler for at least 1 over.
+11. **No bowler may have more than 2 overs remaining after over 12 (HARD constraint).** By the end of over 12, every bowler must have bowled at least 2 of their 4 overs. Holding a 4-over bowler with 3-4 overs banked for the death does not work — it forces too many overs from one bowler late and the line/rhythm suffers. Front-load so that after over 12 the most any single bowler can still have is 2 overs, then spread the final 8 overs (13-20) so no one carries 3+. Stricter companion to rule 8.
 
 **Core rotation principles (club / tennis-ball cricket)**:
 
