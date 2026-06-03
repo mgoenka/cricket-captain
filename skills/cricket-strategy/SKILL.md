@@ -589,6 +589,8 @@ This is what gets shared with the team. **Does NOT include**:
 
 **Cap opposition "good bowler" call-outs at the top 2-3 in the TEAM summary.** Even if the opposition has 4-5 tight bowlers, only name the **2 or 3 toughest** in the team summary. Naming all of them makes the batters feel there is no way to score and they freeze. The full bowling tier list (all tight bowlers + econ figures) belongs in the captain's summary and the opponent file only. If every bowler is tight with no weak link, don't list them all — give a positive plan instead ("their attack is disciplined, so runs come from rotating strike and converting the loose ball, not from taking anyone on"). Always give the batters a way to play, not a wall of names.
 
+**Plan A only is acceptable if the captain prefers to decide contingencies live.** Some captains do not want a written "Plan B / if X then Y" contingency list — they call it on the day. When this preference is set, omit the contingency-trigger list from both the captain's summary and the team summary; give the committed Plan A (toss, batting order, bowling rotation, field, targets, matchups) and stop. A one-line lose-toss note is fine as part of Plan A framing; full multi-trigger lists are not. The plan file may keep an internal triggers note for the planner without surfacing it in the shared summaries.
+
 ### Fielding position assignment rules
 
 Use **per-match rates** (catches/match, run-outs/match), profile designations, AND any player-specific preferences from `team/roster.md`:
