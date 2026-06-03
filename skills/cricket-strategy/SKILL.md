@@ -296,8 +296,9 @@ Classify the ground as one of:
 | Bowling is your strength + opposition has a weak top order | **Bowl first** |
 | Bowling is your strength + ground favors batting first | **Bat first** (post-up + use bowling) |
 | Batting is your strength | **Bowl first** (chase a known total) |
+| **Signals roughly even / coin-flip** | **Bat first (default tie-breaker)** — scoreboard pressure + removes chase variance |
 
-The time-of-day data ALWAYS overrides long-term averages.
+The time-of-day data ALWAYS overrides long-term averages. When no signal gives a clear edge, default to batting first.
 
 **Always include a "Plan B" if we lose the toss** and are forced into the opposite.
 
