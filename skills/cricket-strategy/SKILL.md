@@ -587,6 +587,8 @@ This is what gets shared with the team. **Does NOT include**:
 
 **Always include a "ping the captain directly" call-out in EVERY team summary** (placed just before the final closing line). Ask anyone with concerns about their role, batting slot, bowling spot, or fielding position to reach out **directly and now**, before the match day. Be polite and warm, not rude. Example: "If anyone has concerns or thoughts on your role, please ping me directly now so we can sort it out before the match. Much better to hear it tonight than on the field."
 
+**Cap opposition "good bowler" call-outs at the top 2-3 in the TEAM summary.** Even if the opposition has 4-5 tight bowlers, only name the **2 or 3 toughest** in the team summary. Naming all of them makes the batters feel there is no way to score and they freeze. The full bowling tier list (all tight bowlers + econ figures) belongs in the captain's summary and the opponent file only. If every bowler is tight with no weak link, don't list them all — give a positive plan instead ("their attack is disciplined, so runs come from rotating strike and converting the loose ball, not from taking anyone on"). Always give the batters a way to play, not a wall of names.
+
 ### Fielding position assignment rules
 
 Use **per-match rates** (catches/match, run-outs/match), profile designations, AND any player-specific preferences from `team/roster.md`:
