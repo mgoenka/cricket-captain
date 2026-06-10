@@ -414,6 +414,12 @@ When chasing a sub-80 total, the entire batting plan changes. The only way to lo
 10. **6th-bowler problem**: if only 5 confirmed bowlers cover 19-20 overs, you still need a 6th bowler for at least 1 over.
 11. **No bowler may have more than 2 overs remaining after over 12 (HARD constraint).** By the end of over 12, every bowler must have bowled at least 2 of their 4 overs. Holding a 4-over bowler with 3-4 overs banked for the death does not work — it forces too many overs from one bowler late and the line/rhythm suffers. Front-load so that after over 12 the most any single bowler can still have is 2 overs, then spread the final 8 overs (13-20) so no one carries 3+. Stricter companion to rule 8.
 
+12. **Bucket bowlers into "non-pressure" and "pressure".** Before the match, label each bowler: non-pressure (steady / economical, fine when the game is calm) vs pressure (your best, most composed under heat). Management: start with and keep bowling non-pressure bowlers WHILE your team is ahead of the run/wicket equation; finish their overs during the comfortable phases. Save pressure bowlers for the tight moments. This is the core lens for managing overs 10-20.
+
+13. **Give each bowler a specific per-over goal, especially overs 10-20.** Don't just hand over the ball — state the objective ("keep them under 4, no wicket needed" or "we need a wicket, attack the stumps"). Narrow goals settle the bowler and make the field coherent.
+
+14. **Manage the bad over — slow it down.** You usually know by ball 1-2 that an over is going badly. Slow the game down, walk over, fake a field discussion, get the bowler to breathe and reset. Most bowlers stop thinking straight when hit; the job is to settle nerves, not add pressure. Focus them on line/length and the spot they want to hit; if needed have them bowl off a shorter run-up to find rhythm. Bowling is ~90% mental.
+
 **Core rotation principles (club / tennis-ball cricket)**:
 
 A. **Give the very first over to a WEAKER bowler, not the best one.** Batsmen rarely attack from ball 1 — they're settling. A weaker bowler in over 1 will give up fewer runs than they would later because nobody is swinging yet. Save your best wicket-takers for overs 4-8 when the batsmen are looking for boundaries and the matchup actually matters. This applies in tennis-ball / club cricket where the new ball doesn't swing meaningfully. It does NOT apply to leather-ball cricket.
@@ -634,6 +640,15 @@ Use **per-match rates** (catches/match, run-outs/match), profile designations, A
    
    Mid-on and Mid-off are NOT casual ring slots — they are reserved for the 4th and 5th best outfielders specifically. If you don't have 5 outfielders in the XI, name the closest available player as the 5th and live with the risk. Position the first-over bowler's "when not bowling" base position carefully so a critical spot is not vacated in over 1 (Square Leg in particular must always be covered in over 1).
 
+**Catching and fielding engagement** (apply across matches):
+
+- **Pre-game catch practice is mandatory.** Even a feel for catching in the warm-up removes the nervous energy when the real chance comes. The same players who take blinders also drop simple ones — that's a focus issue that warm-up reps address.
+- **Cycle deep fielders through the infield, one at a time.** Deep fielders who rarely get a ball drift out of the game and drop easy chances. Every few overs, pull one into the infield for an over or two, then send them back. Keeps them engaged. (Live tactic — the written field plan still lists home positions.)
+- **Deep fielders must "take a start"** — move in as the bowler runs in, even if standing on the rope, so they're balanced at contact. Pairs with standing ~20 steps inside the boundary.
+- **Keep fielding positions consistent across games** so players build a feel for their zone. Consistency improves reliability.
+- **Catching is an equal role and a morale lever.** Publish a catching leaderboard (show who LEADS, never call out droppers). Highlight the best fielder post-match. A small best-fielder award is a proven booster when catching is a recurring problem.
+- **Dropped catches and extras (wides/no-balls) are where tight games are lost.** Keep this in the team summary's catch/discipline reminder, framed as a collective "we", never naming individuals.
+
 8. **Fielding-position listing order (apply in BOTH captain's summary and team summary):** always list positions in this exact order:
    WK, Slip, Square Leg, Point, Cover, Mid Off, Mid On, Long Off, Long On, Deep Mid Wicket.
    
@@ -750,6 +765,17 @@ Captain does not take any of these roles (they have captain duty). Any player no
 - **Anti-pattern**: do NOT explain WHY we set particular field positions or WHY we pick certain bowlers for certain overs.
 - **Captain's summary stays neutral/clinical**. No emojis.
 - **DO NOT reference IPL, international cricket, leather-ball cricket, or any premier league** in the team summary if the team plays tennis-ball or club cricket.
+
+### Post-match TEAM message (morale-facing)
+
+When asked for a post-match summary to send the team, it's a MORALE message, not a clinical analysis:
+
+- Keep it short and lifting, especially after a loss — leave the team in good spirit for the next game.
+- Lead with the genuine positive: the fight, the recovery, the character shown.
+- **Always call out the best FIELDER** alongside the standout batting and bowling performances — fielding is an equal role. Pair with a forward-looking catch/discipline reminder framed as a collective "we", never naming who dropped.
+- Name standout batters and bowlers with figures and a line on how they did it.
+- Thank anyone who went out of their way (e.g. a last-minute sub). Check on anyone hurt/unwell by name.
+- Close forward: cheer them up for the next game and mention any logistics.
 
 ## Anti-patterns (avoid these)
 
